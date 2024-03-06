@@ -118,6 +118,8 @@ img {
 
 .posts li { margin-bottom: 30px; }
 
+.posts p { margin: 0px; }
+
 .posts .post-link {
   font-size: 20px;
   letter-spacing: -1px;
@@ -128,7 +130,7 @@ img {
   display: block;
   font-size: 15px;
   color: #818181;
-}
+} 
 
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
@@ -171,7 +173,7 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 30px;
 }
 
 .masthead {
