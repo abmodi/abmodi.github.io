@@ -16,6 +16,17 @@ Continuing my quest for innovation, I ventured into the realm of Apache Spark, l
 
 Currently, as a Senior Staff Engineer at Google, I serve as the tech lead for the entire dataplane for Dataproc. In this role, I continue to push the boundaries of what's possible in Big Data, leveraging my wealth of experience and expertise to drive innovation and shape the future of data processing technologies.
 
+### Patents and Publications
+* Task Packing Scheduling Process for Long Running Applications
+* Multi-Tenant Persistent Job History Service for Data Processing Centers
+* Using data from previous forms to accelerate filling out new ones
+* Improving the experience using documents and forms by using past user behavior
+* Method and apparatus for displaying in-prodcut messages based on individual's past message interaction
+* Method and apparatus for testing in-product marketing content
+* Kea: Tuning an exabyte-scale data infrastructure
+* New query optimization techniques in the Spark engine of Azure synapse
+* Generalized {Sub-Query} Fusion for Eliminating Redundant {I/O} from {Big-Data} Queries
+
 ### Contact me
 
 [abmodi90@gmail.com](mailto:abmodi90@gmail.com)
